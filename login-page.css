@@ -1,0 +1,19 @@
+#login-form{
+  border-style: double;
+  padding:25px;
+  border-radius: 50px 20px;
+  margin:150px
+}
+#forgot-password-link {
+  margin-top:100px
+}
+#form-submit-button {
+background: #B9DFFF;
+color: blue;
+border: 1px dotted #eee;
+border-radius: 20px;
+box-shadow: 5px 5px 5px #eee;
+}
+.label {
+  font-size:25px;
+}
