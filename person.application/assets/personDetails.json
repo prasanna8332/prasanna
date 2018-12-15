@@ -1,0 +1,39 @@
+  [
+    {
+        "Id" : 1,
+        "First name" : "Almas",
+        "Last name" : "Ansari",
+        "Email" : "almas@gmail.com",
+        "Date of birth" : "1997-06-02"
+    }, {
+        "Id" : 2,
+        "First name" : "Mayank",
+        "Last name" : "Verma",
+        "Email" : "mayank@gmail.com",
+        "Date of birth" : "1996-05-26"
+    }, {
+        "Id" : 3,
+        "First name" : "Raunak",
+        "Last name" : "Chaudhary",
+        "Email" : "raunak@gmail.com",
+        "Date of birth" : "1996-10-30"
+    }, {
+        "Id" : 4,
+        "First name" : "Rehaan",
+        "Last name" : "Khan",
+        "Email" : "rehaan@gmail.com",
+        "Date of birth" : "1995-12-08"
+    }, {
+        "Id" : 5,
+        "First name" : "Naveen",
+        "Last name" : "Raj",
+        "Email" : "naveen@gmail.com",
+        "Date of birth" : "1996-07-15"
+    }, {
+        "Id" : 6,
+        "First name" : "Hariharan",
+        "Last name" : "Sekar",
+        "Email" : "hariharan@gmail.com",
+        "Date of birth" : "1996-06-26"
+    }
+]

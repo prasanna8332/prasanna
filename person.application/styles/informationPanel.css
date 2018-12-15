@@ -1,0 +1,11 @@
+body {
+  margin:0px;
+}
+
+#form {
+  position:fixed;
+  left:10%;
+  top:50%;
+  height:50%;
+  padding:10px;
+}
