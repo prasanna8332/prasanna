@@ -1,0 +1,23 @@
+#lsp, #rsp {
+  float: left;
+  width: 10%;
+  font-size: 25px;
+  padding: 10px;
+}
+
+#rsp {
+  border: solid 1px black;
+  width: 80%;
+}
+
+#personTable {
+  width:100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+  text-align: center;
+  cursor: pointer;
+}
+
+#personTable td, th {
+  border: 1px solid black;
+}
