@@ -23,7 +23,6 @@ import com.objectfrontier.training.ws.model.Address;
 import com.objectfrontier.training.ws.model.Person;
 import com.objectfrontier.training.ws.service.AddressService;
 import com.objectfrontier.training.ws.service.PersonService;
-import com.objectfrontier.training.ws.utility.Factory;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "classpath*:spring/root-context.xml", "classpath*:spring/appServlet/servlet-context.xml" })
@@ -41,9 +40,6 @@ public class MockitoServcieTest {
     @Mock
     private Session session;
 
-    @Mock
-    private Factory factory;
-
     @SuppressWarnings("rawtypes")
     @Mock
     private Query query;
@@ -51,7 +47,6 @@ public class MockitoServcieTest {
 
     @Before
     public  void init() {
-
         MockitoAnnotations.initMocks(this);
     }
 
